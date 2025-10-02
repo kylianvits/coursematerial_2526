@@ -40,6 +40,6 @@ You'll find that floor division comes in handy more often than you might think.
 
 ***INFO: If you're wondering if there's a difference between `a // b` and `floor(a / b)`:***
 
-* The types of the results can be different: `5.0 // 3.0` evaluates to `1.0` whereas `floor(5 / 3)` evaluates to `1`.
+* The types of the results can be different: `5.0 // 3.0` evaluates to `1.0` whereas `floor(5.0 / 3.0)` evaluates to `1`.
 * When your operands are `int`s to begin with, `//` is the faster choice.
 
