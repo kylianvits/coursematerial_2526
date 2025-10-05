@@ -21,6 +21,7 @@ Write a function `cake(eggs)` that returns the amount of cakes one can make give
 
 # 15 eggs make three cakes
 >>> cake(15)
+3
 
 # 16 eggs still make only three cakes
 >>> cake(16)
