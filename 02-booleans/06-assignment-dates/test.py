@@ -1,5 +1,4 @@
-import time
-time.sleep(10)
+
 from datetime import datetime
 import pytest
 import calendar
